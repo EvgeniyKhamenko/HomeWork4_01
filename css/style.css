@@ -1,0 +1,112 @@
+.awesome-info {
+  display: flex;
+  flex-direction: column;
+  padding: 30px;
+  margin-top: 100px;
+}
+.awesome-info-header {
+  text-align: center;
+  font-size: 30px;
+  font-weight: 600;
+  font-family: "Raleway", sans-serif;
+}
+.awesome-info-body {
+  margin: 100px;
+  display: inline-flex;
+  flex-direction: row;
+  height: 0px 15px;
+  justify-content: center;
+  font-family: "Open Sans", sans-serif;
+}
+.awesome-info-item {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  margin: 5px;
+}
+
+.info-header {
+  margin: 5px;
+  font-size: 25px;
+  font-family: "Open Sans", sans-serif;
+}
+.awesome-line {
+  width: 170px;
+  border-top: 3px solid #ec7979;
+  display: inline;
+  margin-top: 70px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.awesome-info-text {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 100px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #86878b;
+  margin: auto;
+  font-family: "Raleway", sans-serif;
+}
+.info-content {
+  font-weight: 400px;
+  font-size: 18px;
+  line-height: 21px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  font-family: "Raleway", sans-serif;
+  font-style: normal;
+}
+.tabs-header {
+  font-weight: 700;
+  font-size: 30px;
+  line-height: normal;
+  display: flex;
+  align-items: center;
+  color: black;
+  margin-left: 100px;
+}
+.tabs-text {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 30px;
+  display: flex;
+  align-items: center;
+  color: black;
+  margin-left: auto;
+  margin-top: -130px;
+  font-family: "Raleway", sans-serif;
+}
+.tabs-content {
+  width: 570px;
+  height: 210px;
+  margin-top: 150px;
+  margin-left: 100px;
+}
+.tab-image {
+  width: 470px;
+  height: 500px;
+  margin-left: 700px;
+  margin-top: -340px;
+  margin-right: 170px;
+}
+.tab-button {
+  background: #ec7979;
+  width: 270px;
+  height: 60px;
+  margin-top: 27px;
+  color: white;
+  font-size: 19px;
+  border-color: #ec7979;
+  border: 1px;
+  font-family: "Open Sans", sans-serif;
+}
+.tabs {
+  border: 1px solid #c6cbcd;
+  box-sizing: border-box;
+  width: 1170px;
+  margin-left: 100px;
+  height: 501px;
+}
